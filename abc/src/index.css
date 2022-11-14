@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: rgb(50, 50, 59);
+    color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.header{
+  font-family: 'Sono', sans-serif;
+  color:gold;
+  text-align: center;
+  font-size: 50px;
+}
+.h3-home{
+  font-family: 'Sono', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+.p-home{
+  font-family: 'Sono', sans-serif;
+  color: gold;
+  text-align: left;
+  font-size: 40px;
+}
+.p-homes{
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  text-align: left;
+  font-size: 35px;
+}
+.img-home{
+  font-size: 30px;
+}
+.h1-home{
+  font-size: 35px;
+}
