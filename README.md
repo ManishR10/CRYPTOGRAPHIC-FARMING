@@ -4,16 +4,26 @@
 This is a sample submission repository. Please fork this repo and use this as a starting point for your hackathon project.
 
 Project Name CRYPTOGRAPHIC FARMING
+
 Team name MESSI
+
 Hackathon Track HACKEREARTH
+
 Region location INDIA
+
 Team Members
+
 Teammate MANISH R, BLOCKCHAIN DEVELOPER
+
 Teammate MOHAMED FARHUN M, FRONTEND DEVELOPER
+
 Teammate ABISHEK R, SOLIDITY CONTRACT DEPLOYER
+
 Teammate REYAZ KHAN, WEB3 SUPPORTER
+
 Project Description
- Problem statement:
+
+Problem statement:
 Before the crop cycle starts, farmers pay an insurance payment, and anytime a loss occurs on
 their farm, they receive a payout from the insurance. Farmers are able to manage their
 financial exposure to weather extremes, i.e., financial losses brought on by weather extremes,
